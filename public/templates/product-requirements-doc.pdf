@@ -1,0 +1,105 @@
+%PDF-1.7
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources <</Font <</F1 4 0 R /F2 5 0 R>>>>
+/Contents 6 0 R>>
+endobj
+4 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold>>
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+6 0 obj
+<</Length 4000>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(Product Requirements Document) Tj
+/F1 14 Tf
+0 -50 Td
+(1. Product Overview) Tj
+/F2 11 Tf
+0 -20 Td
+(Describe your product's purpose, target audience, and main goals) Tj
+/F1 14 Tf
+0 -30 Td
+(2. Problem Statement) Tj
+/F2 11 Tf
+0 -20 Td
+(What problem does this product solve? Why is it needed?) Tj
+/F1 14 Tf
+0 -30 Td
+(3. User Stories) Tj
+/F2 11 Tf
+0 -20 Td
+(As a [user type], I want to [action] so that [benefit]) Tj
+/F1 14 Tf
+0 -30 Td
+(4. Features & Requirements) Tj
+/F2 11 Tf
+0 -20 Td
+(- Must Have Features) Tj
+0 -15 Td
+(- Nice to Have Features) Tj
+0 -15 Td
+(- Future Considerations) Tj
+/F1 14 Tf
+0 -30 Td
+(5. Technical Requirements) Tj
+/F2 11 Tf
+0 -20 Td
+(- Platform/Technology Stack) Tj
+0 -15 Td
+(- Integration Requirements) Tj
+0 -15 Td
+(- Performance Requirements) Tj
+/F1 14 Tf
+0 -30 Td
+(6. Design Requirements) Tj
+/F2 11 Tf
+0 -20 Td
+(- UI/UX Guidelines) Tj
+0 -15 Td
+(- Brand Requirements) Tj
+/F1 14 Tf
+0 -30 Td
+(7. Success Metrics) Tj
+/F2 11 Tf
+0 -20 Td
+(- KPIs) Tj
+0 -15 Td
+(- Success Criteria) Tj
+/F1 14 Tf
+0 -30 Td
+(8. Timeline & Milestones) Tj
+/F2 11 Tf
+0 -20 Td
+(- Development Phases) Tj
+0 -15 Td
+(- Key Deliverables) Tj
+0 -15 Td
+(- Launch Date) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f
+0000000010 00000 n
+0000000056 00000 n
+0000000111 00000 n
+0000000223 00000 n
+0000000291 00000 n
+0000000356 00000 n
+trailer
+<</Size 7 /Root 1 0 R>>
+startxref
+4406
+%%EOF

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<x:workbook xmlns:x="urn:schemas-microsoft-com:office:excel">
+<x:worksheet>
+<x:table>
+<x:row>
+<x:cell>User Story</x:cell>
+<x:cell>Description</x:cell>
+<x:cell>Priority</x:cell>
+<x:cell>Points</x:cell>
+<x:cell>Owner</x:cell>
+<x:cell>Status</x:cell>
+</x:row>
+<x:row>
+<x:cell>Authentication</x:cell>
+<x:cell>Implement secure login</x:cell>
+<x:cell>High</x:cell>
+<x:cell>8</x:cell>
+<x:cell>John</x:cell>
+<x:cell>To Do</x:cell>
+</x:row>
+</x:table>
+</x:worksheet>
+</x:workbook>

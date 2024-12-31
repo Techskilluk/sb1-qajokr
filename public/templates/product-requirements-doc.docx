@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml">
+<w:body>
+<w:p><w:r><w:t>Product Requirements Document</w:t></w:r></w:p>
+<w:p><w:r><w:t>1. Product Overview</w:t></w:r></w:p>
+<w:p><w:r><w:t>[Describe your product's purpose, target audience, and goals]</w:t></w:r></w:p>
+<w:p><w:r><w:t>2. Problem Statement</w:t></w:r></w:p>
+<w:p><w:r><w:t>[What problem does this solve? Why is it needed?]</w:t></w:r></w:p>
+<w:p><w:r><w:t>3. User Stories</w:t></w:r></w:p>
+<w:p><w:r><w:t>As a [user], I want to [action] so that [benefit]</w:t></w:r></w:p>
+<w:p><w:r><w:t>4. Features & Requirements</w:t></w:r></w:p>
+<w:p><w:r><w:t>- Must Have Features</w:t></w:r></w:p>
+<w:p><w:r><w:t>- Nice to Have Features</w:t></w:r></w:p>
+<w:p><w:r><w:t>5. Success Metrics</w:t></w:r></w:p>
+<w:p><w:r><w:t>- KPIs</w:t></w:r></w:p>
+<w:p><w:r><w:t>- Success Criteria</w:t></w:r></w:p>
+</w:body>
+</w:wordDocument>

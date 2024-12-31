@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<x:workbook xmlns:x="urn:schemas-microsoft-com:office:excel">
+<x:worksheet>
+<x:table>
+<x:row>
+<x:cell>Initiative</x:cell>
+<x:cell>Q1 2024</x:cell>
+<x:cell>Q2 2024</x:cell>
+<x:cell>Q3 2024</x:cell>
+<x:cell>Q4 2024</x:cell>
+</x:row>
+<x:row>
+<x:cell>Core Features</x:cell>
+<x:cell>User Authentication</x:cell>
+<x:cell>Profile Management</x:cell>
+<x:cell>Advanced Search</x:cell>
+<x:cell>Analytics Dashboard</x:cell>
+</x:row>
+<x:row>
+<x:cell>User Experience</x:cell>
+<x:cell>UI Redesign</x:cell>
+<x:cell>Mobile Optimization</x:cell>
+<x:cell>Performance Updates</x:cell>
+<x:cell>Accessibility</x:cell>
+</x:row>
+</x:table>
+</x:worksheet>
+</x:workbook>
